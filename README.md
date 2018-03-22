@@ -6,7 +6,7 @@ Alunos envolvidos:
 
 * EIMEC31A
 
-- Marcos Vinicius Silva Costa
+** Marcos Vinicius Silva Costa
 - Matheus Silva de Almeida
 - Sarah Even Oliveira Barbosa Fernandes
 
